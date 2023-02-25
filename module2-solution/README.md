@@ -1,3 +1,3 @@
+Module-2 Coding Assignment
 
-Course: HTML, CSS, and Javascript for Web Developers
 
